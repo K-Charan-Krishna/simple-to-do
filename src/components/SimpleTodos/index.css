@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.container {
+  background-color: #ffc2a0;
+  height: 100vh;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.inner {
+  background-color: #ffffff;
+  padding: 12px;
+  border-radius: 12px;
+  text-align: center;
+}
+.list {
+  list-style-type: none;
+  text-align: center;
+}

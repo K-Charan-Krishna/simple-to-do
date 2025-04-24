@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.li-item {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-around;
+}
+.button {
+  height: 30px;
+  width: 100px;
+  border: 1px solid #000000;
+  background-color: transparent;
+  border-radius: 10px;
+  color: #ff8542;
+}
